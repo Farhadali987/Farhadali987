@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhadali987" alt="farhadali987" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js,AgenticAi**
 
 - 🤝 I’m looking for help with **Python,React,Next,JS,HTML,CSS,**
 
